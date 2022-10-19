@@ -2,6 +2,6 @@ public Class studyopedia{
 public Static void main(strins [] args){
 int x=10;
 System.out.println(x--);
-System.out.println(--x);
+System.out.println(++x);
 }
 }
